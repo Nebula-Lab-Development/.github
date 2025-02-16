@@ -6,9 +6,9 @@
 <h2 width="100%">⚙️ Core Team</h2>
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/criticalswateam1">
-        <img src="https://github.com/criticalswateam1.png?size=100" width="100px;" alt=""/>
+     <td align="center"><a href="https://github.com/caedencode">
+        <img src="https://github.com/caedencode?size=100" width="100px;" alt=""/>
         <br />
-        <sub><b>criticaldevx</b></sub></a><br />
+        <sub><b>Caeden Rajoo</b></sub></a><br />
   </tr>
 </table>
