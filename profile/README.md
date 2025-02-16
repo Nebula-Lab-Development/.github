@@ -7,7 +7,7 @@
 <table>
   <tr>
      <td align="center"><a href="https://github.com/caedencode">
-        <img src="https://github.com/caedencode?size=100" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/80152982?v=4" width="100px;" alt=""/>
         <br />
         <sub><b>Caeden Rajoo</b></sub></a><br />
   </tr>
