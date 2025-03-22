@@ -1,4 +1,4 @@
-<img width="256" align="right" src="https://www.nebulalab.xyz/og-image.png"/>
+<img align="center" src="https://www.nebulalab.xyz/og-image.png"/>
 
 <p align="center">Nebula Labs</p>
 <h2>☎️ About</h2>
