@@ -1,4 +1,4 @@
-<img width="256" align="right" src="https://media.discordapp.net/attachments/1183838101030834416/1339681428144787476/IMG_0179.jpg?ex=67b2e6ce&is=67b1954e&hm=91cf1c12b2b0307cc3bef08eb8135989f54f885475903428d588fa30f85055b3&=&format=webp&width=1478&height=985"/>
+<img width="256" align="right" src="https://www.nebulalab.xyz/og-image.png"/>
 
 <p align="center">Nebula Labs</p>
 <h2>☎️ About</h2>
